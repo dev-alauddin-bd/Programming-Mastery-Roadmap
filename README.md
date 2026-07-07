@@ -60,6 +60,158 @@ Once the concepts become common, learning frameworks becomes much easier.
 - [ ] Naming Convention
 - [ ] Case Sensitivity
 
+
+## 1. Programming Language
+
+A **Programming Language** is a formal language used to write instructions (programs) that a computer can understand and execute. It allows developers to create software, websites, mobile apps, games, and many other applications.
+
+**Example Languages:** JavaScript, Python, Java, C#, C++, Go
+
+---
+
+## 2. Compiler
+
+A **Compiler** is a software program that translates the entire source code into machine code before execution. After successful compilation, it generates an executable file that the operating system can run.
+
+**Examples:** GCC (C), G++ (C++), `javac` (Java), Roslyn (C#)
+
+---
+
+## 3. Interpreter
+
+An **Interpreter** is a program that translates and executes source code one statement at a time without creating a separate executable file. This makes testing and debugging easier.
+
+**Examples:** Python Interpreter, JavaScript V8 Engine
+
+---
+
+## 4. Source Code
+
+**Source Code** is the original human-readable code written by programmers using a programming language. It contains the instructions that define how a program works.
+
+---
+
+## 5. Executable
+
+An **Executable** is the final machine-readable program produced after compilation. It can be executed directly by the operating system.
+
+**Examples**
+
+* Windows: `.exe`
+* Linux: Executable Binary
+* macOS: Application Bundle
+
+---
+
+## 6. IDE (Integrated Development Environment)
+
+An **IDE** is a software application that provides everything needed to develop software in one place. It usually includes a code editor, debugger, compiler, terminal, and project management tools.
+
+**Popular IDEs**
+
+* Visual Studio
+* IntelliJ IDEA
+* Eclipse
+* PyCharm
+* Android Studio
+
+---
+
+## 7. SDK (Software Development Kit)
+
+An **SDK** is a collection of development tools, libraries, APIs, documentation, and utilities that help developers build applications for a specific platform or framework.
+
+**Examples**
+
+* Java SDK (JDK)
+* Android SDK
+* .NET SDK
+* Flutter SDK
+
+---
+
+## 8. Runtime
+
+A **Runtime** is the environment in which a program executes. It provides the necessary libraries, memory management, and services required for the application to run correctly.
+
+**Examples**
+
+* Node.js Runtime
+* Java Runtime Environment (JRE)
+* .NET Runtime
+
+---
+
+## 9. CLI (Command Line Interface)
+
+A **CLI (Command Line Interface)** is a text-based interface that allows users to interact with the operating system or software by typing commands instead of using graphical buttons.
+
+**Examples**
+
+* `node app.js`
+* `python main.py`
+* `git status`
+* `npm install`
+
+---
+
+## 10. Syntax
+
+**Syntax** is the set of grammatical rules that define how code must be written in a programming language. If these rules are not followed, the program will produce syntax errors and fail to run.
+
+---
+
+## 11. Semicolon (;)
+
+A **Semicolon (`;`)** is a punctuation symbol used in many programming languages to mark the end of a statement. Although some languages make it optional, it improves code clarity.
+
+---
+
+## 12. Curly Braces `{ }`
+
+**Curly Braces (`{ }`)** are symbols used to define a block of code. They group multiple statements together inside functions, loops, classes, and conditional statements.
+
+**Used In**
+
+* Java
+* JavaScript
+* C#
+* C++
+* C
+
+---
+
+## 13. Indentation
+
+**Indentation** is the use of spaces or tabs at the beginning of a line to organize code and show its structure. Proper indentation improves readability, and in Python it is mandatory because it defines code blocks.
+
+---
+
+## 14. Naming Convention
+
+A **Naming Convention** is a set of standardized rules for naming variables, functions, classes, methods, files, and other identifiers. Consistent naming makes code easier to read, understand, and maintain.
+
+**Common Styles**
+
+* camelCase
+* PascalCase
+* snake_case
+* UPPER_SNAKE_CASE
+
+---
+
+## 15. Case Sensitivity
+
+**Case Sensitivity** means that uppercase and lowercase letters are treated as different characters. Therefore, identifiers with different letter cases are considered different names.
+
+**Example**
+
+* `age`
+* `Age`
+* `AGE`
+
+These are three different identifiers in languages such as JavaScript, Java, Python, C#, and C++.
+
 ---
 
 ## ✅ Chapter 2 — Basic Syntax
